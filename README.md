@@ -1,8 +1,9 @@
 # store
 A Store with Meteor + React + Mongo
 
-to run 
+to run:
 
 npm install
+
 meteor 
 
